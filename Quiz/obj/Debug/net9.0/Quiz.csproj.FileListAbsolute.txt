@@ -1,0 +1,11 @@
+D:\Навчання\МРПЗ\лаба 2\Quiz\bin\Debug\net9.0\Quiz.deps.json
+D:\Навчання\МРПЗ\лаба 2\Quiz\bin\Debug\net9.0\Quiz.dll
+D:\Навчання\МРПЗ\лаба 2\Quiz\bin\Debug\net9.0\Quiz.pdb
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.dll
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\refint\Quiz.dll
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\Quiz.pdb
+D:\Навчання\МРПЗ\лаба 2\Quiz\obj\Debug\net9.0\ref\Quiz.dll

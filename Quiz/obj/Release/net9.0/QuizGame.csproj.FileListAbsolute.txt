@@ -1,0 +1,12 @@
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\bin\Release\net9.0\QuizGame.deps.json
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\bin\Release\net9.0\QuizGame.dll
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\bin\Release\net9.0\QuizGame.pdb
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.AssemblyInfoInputs.cache
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.AssemblyInfo.cs
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.csproj.CoreCompileInputs.cache
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.sourcelink.json
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.dll
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\refint\QuizGame.dll
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\QuizGame.pdb
+D:\Навчання\МРПЗ\Лабораторна №2 МРПЗ\Quiz\obj\Release\net9.0\ref\QuizGame.dll
